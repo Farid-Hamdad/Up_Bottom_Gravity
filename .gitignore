@@ -1,0 +1,74 @@
+# ===============================
+# LaTeX
+# ===============================
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# Temporary build folders
+_build/
+latexmk/
+
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# ===============================
+# Jupyter / IPython (if used later)
+# ===============================
+.ipynb_checkpoints/
+
+# ===============================
+# Data & results (generated)
+# ===============================
+data/*.npy
+data/*.npz
+data/*.json
+results/
+outputs/
+
+# ===============================
+# Figures (generated automatically)
+# ===============================
+figures/_generated/
+figures/tmp/
+
+# (IMPORTANT)
+# Keep final figures used in the paper!
+# Do NOT ignore figures/*.png or figures/*.pdf
+
+# ===============================
+# OS / Editor junk
+# ===============================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# ===============================
+# GitHub / CI
+# ===============================
+*.bak
+*.tmp
