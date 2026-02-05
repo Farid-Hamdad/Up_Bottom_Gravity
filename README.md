@@ -157,9 +157,9 @@ Up_Bottom Gravity suggère un changement de point de vue :
 
 ## Citation
 
-Si vous utilisez ou discutez ce travail :
+If you use or build upon this work, please cite:
 
-> Farid Hamdad, *Up_Bottom Gravity: Emergent Space, Time and Gravity from Quantum Entanglement*, GitHub (2026).
+Farid Hamdad, *Up_Bottom Gravity: Emergent Space, Time and Gravity from Quantum Entanglement*, GitHub repository (2026).
 
 ---
 
