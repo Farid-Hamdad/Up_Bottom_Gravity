@@ -1,7 +1,9 @@
-# Up_Bottom_Gravity
+# bottom-up-quantum-gravity
+
 Emergent space, time and gravity from quantum entanglement — a minimal theoretical and numerical framework.
 
-# Up_Bottom Gravity
+# bottom-up-quantum-gravity
+
 ### Espace, Temps et Gravité comme phénomènes émergents de l’intrication quantique
 
 **Farid Hamdad — 2026**
