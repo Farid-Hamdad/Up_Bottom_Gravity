@@ -4,6 +4,7 @@ Emergent space, time and gravity from quantum entanglement — a minimal theoret
 
 **Farid Hamdad — 2026**
 
+This repository presents a minimal, finite-size numerical proof of concept for the emergence of spacetime geometry and thermodynamic gravity from quantum entanglement.
 ---
 
 ## Idée centrale (en une phrase)
